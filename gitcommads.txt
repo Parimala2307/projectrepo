@@ -1,0 +1,2 @@
+git clone url:used to clone the repo
+git add: to add the files to staging area
