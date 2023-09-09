@@ -1,1 +1,1 @@
-token
+go to settings and choose developer option and generate the key
